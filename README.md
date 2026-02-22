@@ -4,7 +4,7 @@ Welcome to the **Royal Crest Hotel** website! This project is a demonstration of
 
 ## 🔗 Live Demo  
 
-Check out the live website: [Royal Crest Hotel](https://pavi2003-eng.github.io/Royal-Crest/)  
+Check out the live website: [Royal Crest Hotel](https://ajishleo.github.io/Royal-Crest/)  
 
 ## ✨ Features  
 
