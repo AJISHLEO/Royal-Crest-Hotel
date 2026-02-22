@@ -55,7 +55,7 @@ Royal-Crest/
 
 1. Clone the repository:  
    ```
-   git clone https://github.com/pavi2003-eng/Royal-Crest.git  
+   git clone https://github.com/ajishleo/Royal-Crest-Hotel.git  
    ```  
 2. Navigate to the project folder:  
    ```
@@ -71,8 +71,8 @@ Royal-Crest/
 
 ## 📧 Contact  
 
-For queries or feedback, reach out to **Pavithra**:  
-- Email: [paviv592003@gmail.com](mailto:paviv592003@gmail.com) 
-- GitHub: [pavi2003-eng](https://github.com/pavi2003-eng)  
+For queries or feedback, reach out to **Ajish Leo**:  
+- Email: [ajishleo@gmail.com](mailto:ajishleo@gmail.com) 
+- GitHub: [ajishleo](https://github.com/ajishleo)  
 
 ---  
