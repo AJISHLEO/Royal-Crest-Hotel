@@ -43,7 +43,7 @@ Check out the live website: [Royal Crest Hotel](https://pavi2003-eng.github.io/R
 ## 📂 Project Structure  
 
 ```
-Royal-Crest/  
+Royal-Crest-Hotel/  
 ├── index.html       # Main HTML file  
 ├── css/             # Folder containing CSS files  
 ├── js/              # Folder containing JavaScript files  
@@ -59,7 +59,7 @@ Royal-Crest/
    ```  
 2. Navigate to the project folder:  
    ```
-   cd Royal-Crest  
+   cd Royal-Crest-Hotel  
    ```  
 3. Open the `index.html` file in your browser to view the website.  
 
